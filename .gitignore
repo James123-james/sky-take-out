@@ -1,0 +1,10 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+**/application-dev.yml
+**/application-test.yml
+**/application-prod.yml
+**/application-local.yml
